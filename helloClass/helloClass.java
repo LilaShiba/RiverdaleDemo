@@ -2,6 +2,9 @@ package helloClass;
 // debug mismatched names, e.g., helloClass vs. HelloClass
 public class helloClass {
 
+    public int velocity = 0;
+    public String name = "sandwich class";
+
     // Static Method
     // Debug via Main Not public
     static void staticMethod(){
